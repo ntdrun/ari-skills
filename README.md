@@ -19,7 +19,7 @@ npx skills install <github-url-to-skill>
 
 ## Skills
 
-- [promotion-strategist](./skills/promotion-strategist/SKILL.md): Expert skill for designing traffic acquisition strategies.
+- [traffic-channel-finder](./skills/traffic-channel-finder/SKILL.md): Expert skill for designing traffic acquisition strategies.
 
 
 ## Setup
