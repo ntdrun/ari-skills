@@ -1,0 +1,111 @@
+Category	Channel	Description	TrafficType	Risk
+Core / Direct	Direct Traffic	Ввод URL, закладки, сохранённые ссылки	Free	White
+Core / Referral	Referral Traffic	Переходы по ссылкам с других сайтов	Free	White
+Core / Referral	Organic App Sharing	Органическая кнопка "Поделиться"	Free	White
+Core / Referral	Link-in-Bio Tools	Linktree и аналоги	Mixed	White
+Partners & Affiliates	Media Buying Agencies	Агентства закупают инвентарь оптом	Paid	White
+Partners & Affiliates	Macro Influencers (500K+)	Крупные инфлюенсеры	Paid	White
+Partners & Affiliates	Micro Influencers (5K-50K)	Нишевые инфлюенсеры	Paid	White
+Partners & Affiliates	Nano Influencers (<5K)	Локальные адвокаты бренда	Mixed	White
+Partners & Affiliates	CPA / Affiliate Networks	Оплата за действие	Paid	White
+Partners & Affiliates	Cashback & Loyalty Programs	Кэшбек-сервисы и бонусные программы	Paid	Grey
+Partners & Affiliates	Coupon & Deal Sites	Сайты купонов и скидок	Paid	Grey
+Partners & Affiliates	Price Comparison Engines	Агрегаторы цен	Paid	White
+Partners & Affiliates	Lead Brokers	Продажа лидов	Paid	Grey
+Partners & Affiliates	Data Providers	Провайдеры аудиторных данных	Paid	White
+Partners & Affiliates	Reseller Networks	Перепродажа трафика	Paid	Grey
+Partners & Affiliates	Remnant & Redirect Traffic	Pop-under, redirect	Paid	Grey
+Partners & Affiliates	OEM / Preinstall	Предустановки	Paid	Grey
+Partners & Affiliates	Alternative App Stores	Сторонние сторы (дистрибуция)	Mixed	Grey
+Partners & Affiliates	Telco / ISP Ops	SMS, SIM-меню, push	Paid	White
+Partners & Affiliates	Incentivized / Offerwalls	Мотивированный трафик	Paid	Grey
+Search & Intent	SEO / AEO	Органический поиск и ответы ИИ	Free	White
+Search & Intent	GEO (Generative Engine Optimization)	Оптимизация под AI-поисковики	Free	White
+Search & Intent	AI Search Referrals	Трафик из ChatGPT, Perplexity, Claude	Free	White
+Search & Intent	PPC (Search Ads)	Контекстная реклама	Paid	White
+Search & Intent	Display / GDN / RSYA	Медийные сети	Paid	White
+Search & Intent	Retargeting / Remarketing	Догоняющая реклама	Paid	White
+Search & Intent	Classifieds & Directories	Каталоги и доски	Mixed	White
+Search & Intent	Marketplace Search Ads	Поиск внутри МП	Paid	White
+Search & Intent	App Store Optimization (ASO)	Поиск в сторах	Free	White
+Search & Intent	Voice Search	Голосовой поиск	Free	White
+Social & Content	Organic Social	Бесплатный трафик из соцсетей	Free	White
+Social & Content	Social Ads (Target)	Таргетированная реклама	Paid	White
+Social & Content	Native / Teaser Networks	Нативные сети	Paid	Grey
+Social & Content	PR & Media Placements	Статьи в СМИ	Paid	White
+Social & Content	Vertical Video (Shorts)	TikTok, Reels, Shorts	Mixed	White
+Social & Content	Long-form Video	YouTube, Vimeo	Mixed	White
+Social & Content	Discovery / Feed Networks	Рекомендательные ленты	Paid	White
+Social & Content	Community & Q&A Platforms	Форумы, Reddit, Quora	Mixed	White
+Social & Content	User Generated Content (UGC)	Контент пользователей	Free	White
+Social & Content	Employee Advocacy	Контент сотрудников	Free	White
+Social & Content	Conversational Commerce	DM-продажи и чат-боты в соцсетях	Mixed	White
+Social & Content	Social Commerce	Продажи через соцсети	Mixed	White
+Product-Led Growth	Free Tools & Calculators	Бесплатные инструменты и калькуляторы	Free	White
+Product-Led Growth	Freemium Model	Вирусная бесплатная версия продукта	Free	White
+Product-Led Growth	Product Referrals	Реферальные программы с наградой	Free	White
+Product-Led Growth	In-App Viral Mechanics	Инвайты, шаринг с наградой	Free	White
+Product-Led Growth	Product-Qualified Leads (PQL)	PQL через использование продукта	Free	White
+Direct Marketing	Email Marketing	Рассылки	Mixed	White
+Direct Marketing	Messenger Marketing	Боты и чаты	Mixed	White
+Direct Marketing	SMS Marketing	SMS	Paid	White
+Direct Marketing	RCS Messaging	Интерактивные сообщения	Paid	White
+Direct Marketing	Web Push Notifications	Push	Paid	Grey
+Direct Sales	Outbound Cold Calling	Холодные звонки	Mixed	White
+Direct Sales	LinkedIn Sales Navigator	Прямые продажи через LinkedIn	Mixed	White
+Direct Sales	Door-to-Door (B2B)	Прямые визиты	Paid	White
+Direct Marketing	IVR / Call Traffic	Звонки	Mixed	White
+Audio & Voice	Programmatic Audio	Аудиореклама	Paid	White
+Audio & Voice	In-Call Audio Ads	Реклама в ожидании	Paid	White
+Audio & Voice	Podcasts (Organic Mentions)	Органические упоминания	Free	White
+Audio & Voice	Smart Speakers	Голосовые ассистенты	Mixed	White
+Entertainment	In-Game Advertising	Реклама в играх	Paid	White
+Entertainment	In-App Networks (Utility)	Реклама в приложениях	Paid	White
+Entertainment	Smart TV / CTV / OTT	CTV и OTT	Paid	White
+Entertainment	Esports Sponsorships	Киберспорт	Paid	White
+Entertainment	Virtual Events	Онлайн-ивенты	Paid	White
+Entertainment	Adult Tube Sites	Adult-сайты	Paid	Grey
+Outdoor (OOH)	Programmatic DOOH	Цифровые экраны	Paid	White
+Outdoor (OOH)	Outdoor Static OOH	Билборды	Paid	White
+Outdoor (OOH)	Place-Based Media	Экраны в локациях	Paid	White
+Outdoor (OOH)	Projection Mapping	Проекции	Paid	White
+Outdoor (OOH)	Urban AR Surfaces	AR в городе	Paid	White
+E-commerce	Retail Media Networks	Реклама в МП	Paid	White
+E-commerce	Live Commerce	Стрим-продажи	Mixed	White
+E-commerce	Affiliate Seller Programs	Партнёрские продавцы	Paid	White
+Physical / Offline	POS Materials	Материалы в ТТ	Paid	White
+Physical / Offline	Indoor Screens	Экраны в ТЦ	Paid	White
+Physical / Offline	Transit Ads	Транспорт	Paid	White
+Physical / Offline	Event Marketing	Выставки	Paid	White
+Physical / Offline	Speaking Engagements	Выступления на конференциях и подкастах	Mixed	White
+Physical / Offline	Sampling & Promo Staff	Промоутеры	Paid	White
+Physical / Offline	Print Media	Газеты и журналы	Paid	White
+Physical / Offline	Direct Mail	Почта	Paid	White
+Physical / Offline	Branded Merchandise	Сувениры	Paid	White
+Physical / Offline	Local Retail Radio	Радио в магазинах	Paid	White
+Physical / Offline	Receipts & Bills Ads	Реклама на чеках	Paid	White
+Physical / Offline	Pack-in Inserts	Вкладыши	Paid	White
+Physical / Offline	Street Teams	Уличные команды	Paid	White
+Physical / Offline	Guerrilla Marketing	Креативные уличные акции	Paid	Grey
+Physical / Offline	Alumni Networks	Сообщества выпускников	Free	White
+Future Tech	AI-Agents (Personal)	Персональные ИИ	Mixed	White
+Future Tech	Synthetic Influencers	Виртуальные инфлюенсеры	Paid	White
+Future Tech	Digital Humans	AI-консультанты	Paid	White
+Future Tech	Metaverse / VR	VR-миры	Paid	White
+Future Tech	Neuro-Interfaces (BCI)	Нейроинтерфейсы	Paid	Grey
+Future Tech	Web3 Communities	DAO	Mixed	Grey
+IoT & Phygital	Connected Packaging	QR и NFC	Mixed	White
+IoT & Phygital	Smart Home Devices	Умные экраны	Paid	White
+IoT & Phygital	Wearable Audio	Умные наушники	Paid	White
+Mobility	Car Infotainment	Медиа в авто	Paid	White
+Mobility	Ride-Hailing Media	Такси	Paid	White
+Mobility	Public EV Charging Media	Зарядки	Paid	White
+Ecosystems	SuperApps / Mini Apps	Миниаппы внутри платформ (Telegram, WeChat)	Mixed	White
+Ecosystems	API Ecosystem Traffic	Трафик через API	Mixed	White
+Ecosystems	Partner Marketplaces	Каталоги платформ	Mixed	White
+Web3 Social	Fediverse / Protocol	Децентрализованные соцсети	Free	Grey
+Web3 Social	Wallet Notifications	Push кошельков	Paid	Grey
+Web3 Social	NFT Drops & Airdrops	Airdrop	Mixed	Grey
+Dark / Grey Channels	Toolbar & Extensions	Тулбары	Paid	Grey
+Dark / Grey Channels	Adware Bundles	Adware	Paid	Black
+Dark / Grey Channels	Domain Parking	Парковка доменов	Paid	Grey
